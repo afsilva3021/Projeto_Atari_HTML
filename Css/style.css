@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+body {
+    color:rgb(19, 33, 80);
+    background-image: url(/Background/capa8.jpg);
+    background-position:center;  
+}
+h1{
+    font-weight: 900;
+    display: block;
+    padding: 32px;
+    font-size: 1.6rem;
+    text-shadow: 5px 9px 6px rgb(255, 0, 0);
+    color:rgb(241, 218, 3);
+    font-family: 'Press Start 2P', cursive;
+    background-color: rgba(153, 5, 238, 0.349);    
+}
+
+.button-game {
+    background-color: rgba(104, 100, 100, 0.979);
+    font-family: 'Press Start 2P', cursive;
+    color: orangered;
+    font-size: 14px;
+    text-shadow: 0 0 50px;
+    font-weight:bolder, 100px;
+    width:140px;
+    height:70px;
+    border-radius: 60px;
+}
